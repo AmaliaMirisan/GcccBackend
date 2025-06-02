@@ -1,9 +1,0 @@
-com\example\project\service\interfaces\ICarService.class
-com\example\project\domain\dto\CarDTO$CarDTOBuilder.class
-com\example\project\ProjectApplication.class
-com\example\project\domain\model\Car.class
-com\example\project\controller\CarController.class
-com\example\project\service\CarService.class
-com\example\project\repository\ICarRepository.class
-com\example\project\WebConfig.class
-com\example\project\domain\dto\CarDTO.class
